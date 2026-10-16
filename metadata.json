@@ -1,0 +1,6 @@
+{
+  "name": "Captain Personal",
+  "description": "مساعد حساب سعر الكيلومتر لسائقي إندرايف في مصر مع مؤشر عائم ذكي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

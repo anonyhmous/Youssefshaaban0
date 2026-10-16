@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Captain Personal</string>
+    <string name="accessibility_service_description">يقوم المساعد بقراءة تفاصيل طلبات الرحلات (السعر والمسافة) وحساب سعر الكيلومتر وعرضه في مؤشر عائم لمساعدة الكابتن في اتخاذ القرار بسرعة دون أي تدخل أو نقر تلقائي.</string>
+    <string name="home_title">كابتن بيرسونال</string>
+    <string name="home_subtitle">مساعد حساب سعر الكيلومتر لرحلات إندرايف</string>
+    <string name="monitoring_active">المراقبة مفعّلة</string>
+    <string name="monitoring_inactive">المراقبة متوقفة</string>
+    <string name="service_status_enabled">خدمة إمكانية الوصول: مفعّلة ✓</string>
+    <string name="service_status_disabled">خدمة إمكانية الوصول: معطّلة ✗</string>
+    <string name="btn_enable_service">تفعيل من إعدادات إمكانية الوصول</string>
+    <string name="btn_app_info">فتح معلومات التطبيق (السماح بالإعدادات المقيدة)</string>
+    <string name="android_16_note">تنبيه لأندرويد 13 فما فوق: إذا ظهرت الخدمة رمادية أو مقيدة، اضغط على \"فتح معلومات التطبيق\" ثم القائمة الثلاثية أعلى الشاشة واختر \"السماح بالإعدادات المقيدة (Allow restricted settings)\". لمستخدمي أندرويد 16: قد يلزم إيقاف الحماية المتقدمة (Advanced Protection).</string>
+    <string name="btn_dump_screen">نسخ فحص الشاشة للضبط</string>
+    <string name="dump_copied">تم نسخ بيانات فحص الشاشة إلى الحافظة</string>
+    <string name="nav_calculator">الحاسبة اليدوية</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="settings_title">إعدادات الحساب</string>
+    <string name="calc_title">حاسبة سعر الكيلومتر</string>
+</resources>
